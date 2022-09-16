@@ -15,8 +15,8 @@ header{
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-
+    background-image: linear-gradient(90deg, #3400d1 0%, #db275d 50.52%, #d34209, rgb(241, 187, 8) 100%);
+    
     border-radius: 50%;
 
     display: flex;
@@ -41,9 +41,9 @@ body * {
 }
 
 body {
-    background-image: url(./assets/bg.jpg.jpg);
+    background-image: url(./assets/bg2.jpg.png);
     background-position: top center;
-    background-size: 100% auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-color:  #121214;
 }
@@ -60,14 +60,14 @@ main {
 
 section{
     color: white;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #3400d1 0%, #db275d 50.52%, #d34209, rgb(241, 187, 8) 100%);
     padding-top: 4px;
     border-radius: 10px;
 
 }
 
 section div {
-    background-color: #2a2634;
+    background-color: #2a2634c5;
     padding: 35px;
     padding-top: 24px;
     border-radius: 8px;
