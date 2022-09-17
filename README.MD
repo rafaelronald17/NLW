@@ -1,18 +1,18 @@
 # NLW eSports
 
-![preview](./.github/preview2.png.png)
+![preview](./.github/preview.png.png)
 
- > Trila Esplorer
+ > Curriculum Profissional
 
- Projeto contruiído d evento Next Level Week da Rocketseat.
+ Projeto contruído para Apresentação de portifólio e insformações profissionais
 
- [Clique aqui para acessar](https://rafaelronald17.github.io/nlw-esports-explorer/)
+ [Clique aqui para acessar](https://rafaelronald17.github.io/portifolio/)
 
  ## Tecnologias
 
  - HTML
  - CSS
- - Git e Githun
+ - Git e Github
 
  ## Contato
 
