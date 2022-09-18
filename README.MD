@@ -1,10 +1,10 @@
 # NLW eSports
 
-![preview](./.github/preview2.png.png)
+![preview](./.github/preview.png.png.png)
 
  > Trila Esplorer
 
- Projeto contruiído d evento Next Level Week da Rocketseat.
+ Projeto construido no evento Next Level Week (NLW) da Rocketseat.
 
  [Clique aqui para acessar](https://rafaelronald17.github.io/nlw-esports-explorer/)
 
@@ -12,8 +12,9 @@
 
  - HTML
  - CSS
- - Git e Githun
+ - Git e Github
 
  ## Contato
 
- rafaelronald17@gmail.com
+ E-mail: rafaelronald17@gmail.com
+ Contato: 92 98167-4070
