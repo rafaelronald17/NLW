@@ -16,5 +16,6 @@
 
  ## Contato
 
- E-mail: rafaelronald17@gmail.com
- Contato: 92 98167-4070
+ - E-mail: rafaelronald17@gmail.com
+ - Contato: 92 98167-4070
+ - Linkedin: [Rafael Ronald](https://www.linkedin.com/in/rafael-ronald-307851103/)
