@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](./.github/preview.png.png.png)
+![preview](./.github/preview.png.png)
 
  > Trila Esplorer
 
