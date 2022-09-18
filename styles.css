@@ -15,7 +15,7 @@ header{
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #3400d1 0%, #db275d 50.52%, #d34209, rgb(241, 187, 8) 100%);
+    background-image: linear-gradient(90deg, #130244c7 0%, #57020298 50.52%, #531b04a8, rgba(99, 5, 10, 0.801) 100%);
     
     border-radius: 50%;
 
@@ -60,14 +60,14 @@ main {
 
 section{
     color: white;
-    background-image: linear-gradient(90deg, #3400d1 0%, #db275d 50.52%, #d34209, rgb(241, 187, 8) 100%);
+    background-image: linear-gradient(90deg, #130244c7 0%, #57020298 50.52%, #531b04a8, rgba(99, 5, 10, 0.801) 100%);
     padding-top: 4px;
     border-radius: 10px;
 
 }
 
 section div {
-    background-color: #2a2634c5;
+    background-color: #040416ad;
     padding: 35px;
     padding-top: 24px;
     border-radius: 8px;
