@@ -15,7 +15,7 @@ header{
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #0eb6f8 0%, #afa7f5 50.52%, #8645f0, rgb(0, 86, 247) 100%);
+    background-image: linear-gradient(90deg, #3400d1 0%, #db275d 50.52%, #d34209, rgb(241, 187, 8) 100%);
     
     border-radius: 50%;
 
@@ -41,7 +41,7 @@ body * {
 }
 
 body {
-    background-image: url(./assets/bg.jpg.jpg);
+    background-image: url(./assets/bg2.jpg.png);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -60,14 +60,14 @@ main {
 
 section{
     color: white;
-    background-image: linear-gradient(90deg, #0eb6f8 0%, #afa7f5 50.52%, #5f45f0, rgb(0, 86, 247) 100%);
+    background-image: linear-gradient(90deg, #3400d1 0%, #db275d 50.52%, #d34209, rgb(241, 187, 8) 100%);
     padding-top: 4px;
     border-radius: 10px;
 
 }
 
 section div {
-    background-color: #1b1822a8;
+    background-color: #2a2634c5;
     padding: 35px;
     padding-top: 24px;
     border-radius: 8px;
@@ -80,8 +80,7 @@ section h2{
 
 section p{
     letter-spacing: -0.18px;
-    color: #d6d6e2;
-    text-align: justify;
+    color: #A1A1AA;
 }
 
 section ul {
@@ -107,9 +106,9 @@ section ul li:hover {
 }
 
 .channel-list img {
-   
+    border-radius: 50%;
     width: 70px;
-  
+    border: 1px solid #443e54;
 }
 
 /* animação*/
