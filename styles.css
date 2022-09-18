@@ -41,7 +41,7 @@ body * {
 }
 
 body {
-    background-image: url(./assets/background.jpg.png);
+    background-image: url(./assets/background.jpg.jpg);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
